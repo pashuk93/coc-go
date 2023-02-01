@@ -1,4 +1,4 @@
-# coc-go
+# coc-go-extend
 
 Go language server extension using [`gopls`](https://github.com/golang/go/wiki/gopls)
 for [`coc.nvim`](https://github.com/neoclide/coc.nvim).
